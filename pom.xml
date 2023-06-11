@@ -12,6 +12,7 @@
   <modules>
     <module>selnium-core</module>
     <module>selenium-qa</module>
+      <module>selenium-bdd</module>
   </modules>
 
   <properties>
